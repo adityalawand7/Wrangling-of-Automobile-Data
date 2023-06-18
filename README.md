@@ -7,10 +7,10 @@ After completing this lab I am able to:
   3. Standardize and normalize data
 
 The tasks I performed are:
-  1. Identify and handle missing values
-      1.1. Identify missing values
-      1.2. Deal with missing values
-      1.3. Correct data format
+  1. Identify and handle missing values:
+      a. Identify missing values
+      b. Deal with missing values
+      c. Correct data format
   2. Data standardization
   3. Data normalization (centering/scaling)
   4. Binning
